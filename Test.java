@@ -20,7 +20,7 @@ class Test {
 	public static void main(String[] args)
 	{
 
-		int n = 11111;
+		int n = 22322;
 
 		int reverseN = reversNumber(n);
 		System.out.println("Reverse of n = " + reverseN);
