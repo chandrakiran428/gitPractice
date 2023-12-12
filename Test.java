@@ -19,7 +19,12 @@ class Test {
 	// Main function
 	public static void main(String[] args)
 	{
+
 		int n = 15551;
+
+		
+
+
 		int reverseN = reversNumber(n);
 		System.out.println("Reverse of n = " + reverseN);
 
