@@ -24,7 +24,7 @@ class Test {
 
 		int reverseN = reversNumber(n);
 		System.out.println("Reverse of n = " + reverseN);
-
+                 System.out.println("output");
 		// Checking if n is same
 		// as reverse of n
 		if (n == reverseN)
