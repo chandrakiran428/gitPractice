@@ -20,7 +20,7 @@ class Test {
 	public static void main(String[] args)
 	{
 
-		int n = 12221;
+		int n = 13331;
 
 		
 
